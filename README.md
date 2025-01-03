@@ -1,6 +1,3 @@
-Here is the entire `README.md` file in raw data format for GitHub:  
-
-```
 # Job Scraping Project
 
 This project is a web-based application designed to scrape job listings from various online platforms and present them in a structured format. It helps users search for jobs efficiently by consolidating job listings and providing customizable filters.
